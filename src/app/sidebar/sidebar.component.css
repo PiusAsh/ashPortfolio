@@ -1,0 +1,68 @@
+@import url(https://unpkg.com/@webpixels/css@1.1.5/dist/index.css);
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.4.0/font/bootstrap-icons.min.css");
+
+#navbarVertical{
+    background-color: #112A48;
+    /* text-align: center!important; */
+}
+
+/* .nav-link{
+    color: white!important;
+} */
+
+.nav-item:hover, .nav-link:hover{
+background-color: white!important;
+color: #112A48!important;
+
+
+}
+/* .nav-link{
+    cursor: pointer;
+    font-size: 17px;
+} */
+
+.followText {
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'Mulish',
+        sans-serif;
+    color: #fff;
+    text-align: center;
+
+}
+
+.bi{
+
+    font-size: 20px;
+    color: #fff;
+    margin-left: 10px;
+}
+.iconss{
+    text-align: center;
+    /* display: flex;
+    justify-content: space-between; */
+}
+.nav-link {
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Mulish',
+        sans-serif;
+    /* text-decoration: none solid rgb(64, 25, 109);
+    color: #40196D; */
+    /* line-height: 18.375px; */
+    margin-bottom: 5px;
+    text-decoration: none;
+    list-style-type: none;
+}
+.nav-item{
+    text-decoration: none;
+    list-style-type: none;
+}
+/* .navbar-nav{
+    margin-top: 70px!important;
+} */
+
+.navbar-nav{
+    margin-top: 100px;
+}
